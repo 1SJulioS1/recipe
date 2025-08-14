@@ -19,9 +19,9 @@ function App() {
               your choice of cheese, vegetable, or meats.
             </p>
             <div className="flex flex-col items-start justify-start w-full gap-1 p-5 bg-rose-50 rounded-xl">
-              <h3 className="  font-semibold text-rose-800 text-[1.2rem]">
+              <h2 className="  font-semibold text-rose-800 text-[1.2rem]">
                 Preparation time
-              </h3>
+              </h2>
               <ul className="p-1 space-y-2">
                 <li className="flex flex-row items-center gap-8">
                   <span className="rounded-full size-1 bg-stone-900"></span>
